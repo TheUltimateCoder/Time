@@ -1,0 +1,12 @@
+<body style="background:#80BFFF">
+#FF0000 - With this HTML code we tell browser to show maximum of red and no green and no blue. The result is of course pure red color:      
+
+#00FF00 - This HTML code shows just green and no red and blue. The result is:      
+
+#0000FF - This HTML code shows just blue and no red and green. The result is:      
+
+#FFFF00 - Combination of red and green color gives us yellow:      
+
+#CCEEFF - Take some red a bit more of green and maximum of blue to get color of sky:      
+
+Have fun!
